@@ -5,7 +5,7 @@ const searchBar = document.querySelector('input');
 const searchBtn = document.querySelector('button');
 const errorMsg = document.getElementById('error');
 
-const apiKey = 'aecf99a5ef4c83d577c3003a7c4516a2';
+// const apiKey = --EDITED--
 
 async function getData (location = 'Palma') {
     
